@@ -1,0 +1,32 @@
+        body {
+            background-color: Ivory;
+}
+h1 		{
+            color: Black;
+}  
+h1 		{ 
+			font-size: 20px
+}       		
+p 		{
+  font-size: 16px;
+}
+p 		{
+		color: DarkBlue;
+	}
+#Hello 	{
+		background-color: Lavender;
+	}
+ol {
+	list-style-type: lower-alpha;
+}
+
+ul {
+	list-style-type: square
+}
+
+div {
+  height: 200px;
+  width: 200px;
+  border-style: dotted;
+	
+}
