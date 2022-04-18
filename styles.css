@@ -1,11 +1,26 @@
         body {
             background-color: Ivory;
 }
+.container {
+  height: 200px;
+  width: 200px;
+  border-style: dotted;
+
+}
+.Header {
+  height: 70px;
+  width: 700px;
+  border-style: dotted;
+  background-color: rgb(10, 110, 149);
+  color: rgb(0, 0, 0);
+  padding: 10px;
+}
+
 h1 		{
-            color: Black;
+            color: rgb(0, 0, 0);
 }  
 h1 		{ 
-			font-size: 20px
+			font-size: 40px
 }       		
 p 		{
   font-size: 16px;
@@ -15,6 +30,7 @@ p 		{
 	}
 #Hello 	{
 		background-color: Lavender;
+		width: 700px;
 	}
 ol {
 	list-style-type: lower-alpha;
@@ -24,9 +40,5 @@ ul {
 	list-style-type: square
 }
 
-div {
-  height: 200px;
-  width: 200px;
-  border-style: dotted;
-	
-}
+	  
+
