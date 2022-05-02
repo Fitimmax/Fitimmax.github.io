@@ -1,37 +1,65 @@
-        body {
-            background-color: Ivory;
+body {
+            background-color: ivory
 }
 .container {
-  height: 200px;
-  width: 200px;
-  border-style: dotted;
-
+  background-color: rgb(230, 188, 188);
+  height: 775px;
+  width: 1000px;
 }
 .Header {
   height: 70px;
-  width: 700px;
-  border-style: dotted;
+  text-align: center;
   background-color: rgb(10, 110, 149);
   color: rgb(0, 0, 0);
-  padding: 10px;
+  padding: 20px;
+  border-radius: 2203px;
+  
+}
+nav { 
+  width: 97.5%;
+  background-color: #b9d3d5;
+  padding: 20px 5px 20px 20px;
+  margin: auto;
+  text-align: left;
+  font-size: 20px;
+  
 }
 
 h1 		{
-            color: rgb(0, 0, 0);
-}  
-h1 		{ 
+      color: rgb(0, 0, 0);
 			font-size: 40px
 }       		
-p 		{
-  font-size: 16px;
+h2 		{
+  color: rgb(107, 18, 18);
+  font-size: 30px
 }
-p 		{
-		color: DarkBlue;
-	}
+
+#Plans {
+  background-color: Lavender;
+  width: 500px;
+  float: left; 
+  border-style: groove;
+
+}
 #Hello 	{
 		background-color: Lavender;
-		width: 700px;
+		width: 500px;
+    font-size: 20px;
+    color: DarkBlue;
+    border-style: inset;
 	}
+
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: rgb(119, 149, 214);
+    border-style: groove;
+
+
+}
 ol {
 	list-style-type: lower-alpha;
 }
@@ -39,6 +67,11 @@ ol {
 ul {
 	list-style-type: square
 }
+footer {
+  width: 100%;
+  float: left;
+  font-style: italic;
+  background-color: lightgray;
+}
 
-	  
 

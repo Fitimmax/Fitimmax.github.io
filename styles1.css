@@ -35,3 +35,30 @@
   color: white;
   border-style: dashed;
 }
+
+aside {
+  width: 50%;
+  float: left;
+  font-style: italic;
+  background-color: lightgray;
+}
+
+section { 
+  display: block;
+  color: rgb(0, 0, 0);
+}
+
+footer {
+  width: 50%;
+  float: left;
+  font-style: italic;
+  background-color: lightgray;
+}
+nav { 
+  width: 55%;
+  background-color: #EEF9FA;
+  padding: 20px 5px 20px 20px;
+
+
+
+}
