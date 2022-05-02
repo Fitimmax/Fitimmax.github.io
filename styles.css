@@ -74,4 +74,9 @@ footer {
   background-color: lightgray;
 }
 
-
+.profileimage {
+  border: 2px skyblue ;
+  padding: 2px;
+  float: right;
+  border-radius: 70%;
+  margin-right: 50px;
